@@ -2,7 +2,7 @@
 we are writing an algorithm to give birth to AI agent, we will teach it how to solve puzzles using hints. And just like humans we will try to teach AI to learn information from the given problem, how to make smart choices.
 
 
-## Phase 1
+## Phase 1 [Completed]
 
 ### Requirements : 
 1. There's a puzzle board of m rows and n columns
@@ -42,7 +42,7 @@ Like humans we are going to teach the AI how to find information from whatever i
 1. takes hint and learns how to solve puzzle using BFS and DFS separately
  
 
-## Phase 2
+## Phase 2 [In pipeline]
 
 ### Goals -  
 - Instead of a numeric puzzle, use actual pictorial puzzle. 
