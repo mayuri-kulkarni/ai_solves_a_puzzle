@@ -4,6 +4,16 @@ we are writing an algorithm to give birth to AI agent, we will teach it how to s
 
 ## Phase 1 [Completed]
 
+
+https://user-images.githubusercontent.com/24323161/149675771-3e51e34c-6583-4a50-afa5-e2494d3baf83.mp4
+
+
+
+
+https://user-images.githubusercontent.com/24323161/149675825-cf8fdd48-e2cb-4ddc-88ef-7c7a63160e2b.mov
+
+
+
 ### Requirements : 
 - There's a puzzle board of m rows and n columns
 - There's going to be say a bag of pieces in the form of list given to the AI
